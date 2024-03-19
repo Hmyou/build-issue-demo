@@ -1,3 +1,6 @@
+已解决
+https://github.com/NervJS/taro/issues/15339
+
 ```
 node v20.5.1
 pnpm v8.6.12
